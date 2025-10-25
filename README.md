@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+# 🛃 Customer Behavior Data Analyst Portfolio Project
 
 This project is a **full end-to-end data analytics workflow** that mirrors what professional analysts do in real business settings. It takes you from **raw data** to **actionable insights**, covering everything from data cleaning and modeling to analysis, visualization, and reporting.
 
